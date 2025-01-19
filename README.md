@@ -1,1 +1,1 @@
-# VKAN
+# MedVKAN
