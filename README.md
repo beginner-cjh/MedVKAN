@@ -6,10 +6,10 @@
 
 ## Main Results
 
-- Microscopy_BUSI_AbdomenMRI
+- Microscopy / BUSI / AbdomenMRI
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_Microscopy_BUSI_AbdomenMRI.PNG" width="76%" />
 
-- ACDC_COVID19
+- ACDC / COVID-19
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_ACDC_COVID19.PNG" width="70%" />
 
 ## Contact
