@@ -2,6 +2,7 @@
 
  [MedVKAN: An Efficient Feature Extraction Method Integrating Mamba and KAN for Enhanced Medical Image Segmentation]()*
 
+![]([images/method_figure.jpg](https://github.com/beginner-cjh/MedVKAN/blob/main/assets/MedVKAN.png))
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/MedVKAN.png" width="80%" />
 
 ## Main Results
