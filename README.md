@@ -12,6 +12,7 @@
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_Microscopy_BUSI_AbdomenMRI.PNG" width="76%" />
 
 - ACDC / COVID-19
+- ![](assets/Results_ACDC_COVID19.PNG.PNG)
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_ACDC_COVID19.PNG" width="70%" />
 
 ## Contact
