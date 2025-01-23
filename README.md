@@ -10,7 +10,7 @@
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_Microscopy_BUSI_AbdomenMRI.PNG" width="70%" />
 
 - ACDC_COVID19
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_ACDC_COVID19.PNG" width="70%" />
+<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_ACDC_COVID19.PNG" width="76%" />
 
 ## Contact
 If you have any questions about our project, please do not hesitate to contact us by sending an e-mail to cjh1282980418@163.com.
