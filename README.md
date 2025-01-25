@@ -58,6 +58,7 @@ The data structure will be in this format：
 ├── labelsTs
 │   ├── cell_00001_label.tiff
 │   ├── ...
+├── dataset.json
 ```
 
 Then pre-process the dataset with the following command :
