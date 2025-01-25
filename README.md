@@ -38,9 +38,7 @@ pip install -e .
 
 ## Datasets
 
-You can download the AbdomenMRI and Microscopy dataset from [U-Mamba](https://github.com/bowang-lab/U-Mamba) .
-
-You can download the BUSI / ACDC / COVID-19 dataset from the [link](https://drive.google.com/drive/folders/1CH2OWQpd4Sa-BES6oFLRC469gTxf6QUO?usp=drive_link)
+You can download the AbdomenMRI / Microscopy / BUSI / ACDC / COVID-19 dataset from the [link](https://drive.google.com/drive/folders/1CH2OWQpd4Sa-BES6oFLRC469gTxf6QUO?usp=drive_link)
 
 Place in the data folder (../data/nnUNet_raw) . 
 
@@ -63,7 +61,7 @@ Using the following command to train & evaluate MedVKAN
 ```shell
 bash scripts/train_{Datasets}.sh nnUNetTrainerMedVKAN
 ```
-Datasets can be AbdomenMRI / BUSI / Microscopy / ACDC / COVID , such as:
+Datasets can be AbdomenMR / BUSI / Microscopy / ACDC / COVID , such as:
 ```shell
 #Microscopy Dataset
 bash scripts/train_Microscopy.sh nnUNetTrainerMedVKAN
