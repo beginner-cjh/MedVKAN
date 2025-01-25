@@ -48,6 +48,9 @@ Then pre-process the dataset with the following command :
 
 ```shell
 nnUNetv2_plan_and_preprocess -d DATASET_ID --verify_dataset_integrity
+```
+
+```shell
 ##such as Microscopy
 nnUNetv2_plan_and_preprocess -d 703 --verify_dataset_integrity
 ```
