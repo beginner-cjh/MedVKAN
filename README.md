@@ -42,6 +42,24 @@ You can download the AbdomenMRI / Microscopy / BUSI / ACDC / COVID-19 dataset fr
 
 Place in the data folder (../data/nnUNet_raw) . 
 
+The data structure will be in this format：
+
+```shell
+../data/nnUNet_raw/Dataset703_NeurlPSCell
+├── imagesTr
+│   ├── cell_00001_0000.png
+│   ├── ...
+├── imagesTs
+│   ├── cell_00001_0000.png
+|   ├── ...
+├── labelsTr
+│   ├── cell_00001.png
+│   ├── ...
+├── labelsTs
+│   ├── cell_00001_label.tiff
+|   ├── ...
+```
+
 Then pre-process the dataset with the following command :
 
 ```shell
