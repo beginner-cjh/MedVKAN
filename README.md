@@ -72,14 +72,14 @@ nnUNetv2_plan_and_preprocess -d DATASET_ID --verify_dataset_integrity
 nnUNetv2_plan_and_preprocess -d 703 --verify_dataset_integrity
 ```
 
-Then you need to change the batchsize in the file：
+Then you need to change the batch size in the file：
 
 ```shell
 ../data/nnUNet_raw/Dataset703_NeurlPSCell/nnUNetPlans.json
 "batch_size": 8
 ```
 
-Specifically, for the ACDC dataset you also need to change the patchesize
+Specifically, for the ACDC dataset you also need to change the patch size（This is the size of the input image）：
 
 ```shell
 ../data/nnUNet_raw/Dataset027_ACDC/nnUNetPlans.json
