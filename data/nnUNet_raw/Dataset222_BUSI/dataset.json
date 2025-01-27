@@ -1,0 +1,14 @@
+{
+    "channel_names": {
+        "0": "R",
+        "1": "G",
+        "2": "B"
+    },
+    "labels": {
+        "background": 0,
+        "road": 1
+    },
+    "numTraining": 517,
+    "file_ending": ".png",
+    "name": "Dataset222_BUSI"
+}

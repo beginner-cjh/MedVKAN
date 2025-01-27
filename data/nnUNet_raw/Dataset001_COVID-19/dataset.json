@@ -1,0 +1,12 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": 0,
+        "infection": 1
+    },
+    "numTraining": 894,
+    "file_ending": ".png",
+    "name": "Dataset001_COVID-19"
+}
