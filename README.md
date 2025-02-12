@@ -4,8 +4,8 @@
 
 
 ## Network
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/MedVKAN.png" width="80%" />
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/VKAN.png" width="70%" />
+<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/MedVKAN.jpg" width="80%" />
+<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/VKAN.jpg" width="70%" />
 
 
 ## Main Results
