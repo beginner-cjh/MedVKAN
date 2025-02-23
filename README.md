@@ -1,6 +1,6 @@
 # MedVKAN
 
-MedVKAN: An Efficient Feature Extraction Method Integrating Mamba and KAN for Enhanced Medical Image Segmentation
+MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation
 
 
 ## Network
@@ -110,7 +110,7 @@ We thank the authors of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), [Mamba](h
 
 ```
 @article{MedVKAN,
-    title={MedVKAN: An Efficient Feature Extraction Method Integrating Mamba and KAN for Enhanced Medical Image Segmentation},
+    title={MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation},
     author={},
     journal={},
     year={2025}
