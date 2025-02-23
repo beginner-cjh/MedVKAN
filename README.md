@@ -16,8 +16,6 @@ MedVKAN: An Efficient Feature Extraction Method Integrating Mamba and KAN for En
 - ACDC / COVID-19
 <img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_ACDC_COVID19.PNG" width="70%" />
 
-## Contact
-If you have any questions about our project, please do not hesitate to contact us by sending an e-mail to cjh1282980418@163.com.
 
 ## Environment Install
 
@@ -114,7 +112,7 @@ We thank the authors of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), [Mamba](h
 @article{MedVKAN,
     title={MedVKAN: An Efficient Feature Extraction Method Integrating Mamba and KAN for Enhanced Medical Image Segmentation},
     author={},
-    journal={arXiv preprint arXiv:},
+    journal={},
     year={2025}
 }
 ```
