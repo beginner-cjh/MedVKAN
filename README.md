@@ -2,21 +2,6 @@
 
 MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation
 
-
-## Network
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/MedVKAN.jpg" width="80%" />
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/VKAN.jpg" width="70%" />
-
-
-## Main Results
-
-- Microscopy / BUSI / AbdomenMRI
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_Microscopy_BUSI_AbdomenMRI.PNG" width="76%" />
-
-- ACDC / COVID-19
-<img src="https://github.com/beginner-cjh/MedVKAN/blob/main/assets/Results_ACDC_COVID19.PNG" width="70%" />
-
-
 ## Environment Install
 
 ```shell
