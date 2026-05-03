@@ -96,8 +96,8 @@ We thank the authors of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), [Mamba](h
 ```
 @article{MedVKAN,
     title={MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation},
-    author={},
-    journal={},
-    year={2025}
+    author={Hancan Zhu, Jinhao Chen, Guanghua He},
+    journal={Biomedical Signal Processing and Control},
+    year={2026}
 }
 ```
